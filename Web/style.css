@@ -1,0 +1,20 @@
+.custom-bg-primary {
+    background-color: rgb(7, 26, 49) !important;
+}
+
+.btn-primary{
+    background-color: rgb(7, 26, 49) !important;
+    
+}
+.form-select-primary{
+    background-color: rgb(7, 26, 49) !important;
+    color:white;
+
+}
+
+body{font-family: 'Lexend', sans-serif;}
+
+img{
+align-items: center;
+
+}
